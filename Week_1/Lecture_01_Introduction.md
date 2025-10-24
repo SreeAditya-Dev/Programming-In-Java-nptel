@@ -91,10 +91,10 @@ Java was designed with a set of core attributes to address common programming ch
 ## Popularity and Influences of Java
 
 ### Popularity Metrics
-- Java ranks consistently as the worldâ€™s most popular programming language.
+- Java ranks consistently as the world's most popular programming language.
 - Has outperformed other object-oriented languages such as C++, C#, and Visual Basic in extensive global surveys.
 
-### Javaâ€™s Areas of Impact
+### Java's Areas of Impact
 - Vital for **parallel and distributed system programming**.
 - Forms the core of **Android mobile development**.
 - Chosen for enterprise systems, web servers, and cloud applications due to its stability and reliability.
