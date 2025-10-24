@@ -33,7 +33,7 @@ This guide provides a detailed exploration of the fundamental concepts that shap
 ## Brief History of Java Programming
 
 ### Origins
-- Javaâ€™s conceptualization began in 1991 with the Green Team at Sun Microsystems, pioneers in hardware and software development.
+- Java's conceptualization began in 1991 with the Green Team at Sun Microsystems, pioneers in hardware and software development.
 - **Key contributors:**
     - James Gosling
     - Mike Sheridan
@@ -42,9 +42,9 @@ This guide provides a detailed exploration of the fundamental concepts that shap
 
 ### Evolution of the Name and Technology
 - Originally named **Oak** after a common tree in North America and Europe; later changed due to trademark reasons.
-- Javaâ€™s design was guided by the need for a lively, dynamic, and easily pronounceable name, ultimately settled as "Java" in 1995, named after the Indonesian island renowned for its coffee.
+- Java's design was guided by the need for a lively, dynamic, and easily pronounceable name, ultimately settled as "Java" in 1995, named after the Indonesian island renowned for its coffee.
 
-### Javaâ€™s Commercialization and Growth
+### Java's Commercialization and Growth
 - In 1995, Java gained rapid recognition, receiving accolades such as Time Magazine's "Best Product" award.
 - Sun Microsystems released the first **Java Development Kit (JDK)** on January 23, 1996, providing a full programming environment.
 - Adopted by major companies like Netscape for network-based applications.
